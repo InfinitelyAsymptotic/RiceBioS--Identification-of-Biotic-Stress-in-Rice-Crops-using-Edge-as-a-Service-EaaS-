@@ -1,7 +1,7 @@
 # RiceBioS: Identification of Biotic Stress in Rice Crops using Edge-as-a-Service
 
 <p align="center">
-  <img width="860" height="400" src="https://github.com/iPranjalJoshi/RiceBioS--Identification-of-Biotic-Stress-in-Rice-Crops-using-Edge-as-a-Service-EaaS-/blob/4e2103844e3ebdeee33e171e425f4f87f76f9327/FigSolutions.jpg">
+  <img width="860" height="150" src="https://github.com/iPranjalJoshi/RiceBioS--Identification-of-Biotic-Stress-in-Rice-Crops-using-Edge-as-a-Service-EaaS-/blob/4e2103844e3ebdeee33e171e425f4f87f76f9327/FigSolutions.jpg">
 </p>
 
 
